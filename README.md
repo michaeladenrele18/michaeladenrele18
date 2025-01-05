@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Michael Adenrele! 👋
 
-<!--
-**michaeladenrele18/michaeladenrele18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🤖 Aspiring Data Scientist and Robotics Engineer.
+- 🎓 Computer Engineering Student with a passion for innovation and problem-solving.
+- 🧑‍💻 Currently learning: **Pandas**, **NumPy**, and **ROS (Robot Operating System)**.
+- 📈 Interested in Machine Learning, Data Visualization, and Autonomous Systems.
+- ✨ Fun fact: 
 
-Here are some ideas to get you started:
+## 🛠️ Skills:
+- **Programming Languages:** Python, C++, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, TensorFlow (beginner)
+- **Robotics Tools:** Arduino, ROS (beginner), IMU Sensors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/michael-adenrele-1547592b5/)
+- **Kaggle:** [Kaggle Profile](https://www.kaggle.com/michaeladenrele)
+- **Porfolio Website:** [Portfolio]()
+
+## 🌱 What I'm Working On:
+- 
