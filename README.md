@@ -1,11 +1,11 @@
-# Hi there, I'm Michael Adenrele! 👋
+# Hi!  I'm Michael Adenrele! 👋
 
 ## 🚀 About Me:
 - 🤖 Aspiring Data Scientist and Robotics Engineer.
 - 🎓 Computer Engineering Student with a passion for innovation and problem-solving.
 - 🧑‍💻 Currently learning: **Pandas**, **NumPy**, and **ROS (Robot Operating System)**.
 - 📈 Interested in Machine Learning, Data Visualization, and Autonomous Systems.
-- ✨ Fun fact: 
+- ✨ Fun fact: One of my favorite games to play is Marvel Rivals
 
 ## 🛠️ Skills:
 - **Programming Languages:** Python, C++, SQL
