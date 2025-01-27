@@ -1,7 +1,7 @@
 # Hi!  I'm Michael Adenrele! 👋
 
 ## 🚀 About Me:
-- 🤖 Aspiring Data Scientist and Robotics Engineer.
+- 🤖 Aspiring Machine Learning and Robotics Engineer.
 - 🎓 Computer Engineering Student with a passion for innovation and problem-solving.
 - 🧑‍💻 Currently learning: **NumPy**, and **ROS (Robot Operating System)**.
 - 📈 Interested in Machine Learning, Data Visualization, and Autonomous Systems.
