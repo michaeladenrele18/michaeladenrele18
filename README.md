@@ -21,4 +21,4 @@
 
 ## 🌱 What I'm Working On:
 - Blind Control System using Siri
-- AI Fashion Advisor
+- AI Fashion Advisor (OOTD.AI)
