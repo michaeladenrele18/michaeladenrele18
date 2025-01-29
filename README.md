@@ -20,5 +20,5 @@
 - **Porfolio Website:** [Portfolio]()
 
 ## 🌱 What I'm Working On:
-- Blind Control System using Siri
+- Blind Control System using Siri/Alexa
 - AI Fashion Advisor (OOTD.AI)
