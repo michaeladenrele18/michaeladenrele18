@@ -1,9 +1,9 @@
 # Hi!  I'm Michael Adenrele! 👋
 
 ## 🚀 About Me:
-- 🤖 Aspiring Machine Learning and Robotics Engineer.
+- 🤖 Aspiring Machine Learning and Electrical Engineer
 - 🎓 Computer Engineering Student with a passion for innovation and problem-solving.
-- 🧑‍💻 Currently learning: **NumPy**, and **ROS (Robot Operating System)**.
+- 🧑‍💻 Currently learning: **Tensorflow**, and **ROS (Robot Operating System)**.
 - 📈 Interested in Machine Learning, Data Visualization, and Autonomous Systems.
 - ✨ Fun fact: One of my favorite games to play is Marvel Rivals
 
